@@ -1,0 +1,3 @@
+[submodule "Fastapi_deployment"]
+	path = Fastapi_deployment
+	url = https://github.com/Ponmurugaiya/Fastapi_deployment.git
